@@ -19,6 +19,7 @@ public class Pr1 {
         System.out.print("hello wordl");
         System.out.print("hello wordl2");
         System.out.print("hello wordl23");
+        System.out.print("rama1");
     }
     
 }
