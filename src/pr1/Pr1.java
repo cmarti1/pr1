@@ -17,6 +17,8 @@ public class Pr1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("hello wordl");
+        System.out.print("hello wordl2");
+        System.out.print("hello wordl23");
     }
     
 }
